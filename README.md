@@ -7,15 +7,16 @@
   
 <h4 align="center">Languages and Tools:</h4>  
 <p align="center"> 
-   <img src="https://a11ybadges.com/badge?logo=html5" alt="html5" width="110" height="30"/> &nbsp;
-   <img src="https://a11ybadges.com/badge?logo=css3" width="100" height="30"/> &nbsp;
-   <img src="https://a11ybadges.com/badge?logo=javascript" width="170" height="30"/> &nbsp;
-   <img src="https://a11ybadges.com/badge?logo=tailwindcss" width="210" height="30"/> &nbsp;
-   <img src="https://a11ybadges.com/badge?logo=bootstrap" width="160" height="30"/> &nbsp;
-   <img src="https://a11ybadges.com/badge?logo=adobephotoshop" width="225" height="30"/> &nbsp;
-   <img src="https://a11ybadges.com/badge?logo=autodesk" width="150" height="30"/> &nbsp;
-   <img src="https://a11ybadges.com/badge?logo=sketchup" width="150" height="30"/> &nbsp;
-   <img src="https://a11ybadges.com/badge?logo=visualstudiocode" width="240" height="30"/> &nbsp;
+   <img src="https://a11ybadges.com/badge?logo=html5" alt="html5" width="120" height="30"/> &nbsp;
+   <img src="https://a11ybadges.com/badge?logo=css3" width="110" height="30"/> &nbsp;
+   <img src="https://a11ybadges.com/badge?logo=javascript" width="180" height="30"/> &nbsp;
+   <img src="https://a11ybadges.com/badge?logo=tailwindcss" width="220" height="30"/> &nbsp;
+   <img src="https://a11ybadges.com/badge?logo=bootstrap" width="170" height="30"/> &nbsp;
+   <img src="https://a11ybadges.com/badge?logo=adobephotoshop" width="210" height="30"/> &nbsp;
+   <img src="https://a11ybadges.com/badge?logo=autodesk" width="140" height="30"/> &nbsp;
+   <img src="https://a11ybadges.com/badge?logo=sketchup" width="130" height="30"/> &nbsp;
+   <img src="https://a11ybadges.com/badge?logo=visualstudiocode" width="210" height="30"/> &nbsp;
+  <img src="https://a11ybadges.com/badge?logo=react" width="110" height="30"/> &nbsp;
    <hr>
 <h3 align="center"> 📝About Me</h3>
 <p>I graduate from architecture school. Due to my interest of computers and design, I started to learn coding and decided to become a Front-End developer.
